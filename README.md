@@ -2,10 +2,6 @@
 
 **Software Engineer | Backend**
 
-Construindo um **software de gestão para igrejas e eventos**, com foco em **escalabilidade, arquitetura e performance**.
-
----
-
 ## Core Skills
 
 * **Languages:** Python, C#, JavaScript, TypeScript, SQL
